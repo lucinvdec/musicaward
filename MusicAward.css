@@ -2,7 +2,6 @@
 @import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@100;200;300;400;500;600;700&display=swap");
 
 .MCAW-wrapper {
-  width: 100%;
   max-width: 900px;
   min-width: 350px;
   padding: 30px;
@@ -23,7 +22,6 @@
 }
 
 .MCAW-container {
-  width: 100%;
   border: 1px solid #333;
   padding: 30px;
   background: linear-gradient(65deg, #000 0%, #1a1a1a 55%, #000 100%);
